@@ -3,7 +3,7 @@
 ## ☁️ Running on Google Colab
 You can quickly test the scripts on **Google Colab**:
 
-[Run on Google Colab](YOUR_NOTEBOOK_LINK_HERE)
+[Run on Google Colab](https://colab.research.google.com/drive/1LJZ8tYIahUz04McgW3Wn1FHYVjuY_m1q#scrollTo=sC8e-9qQ8ciK)
 
 ##  Prerequisites
 
