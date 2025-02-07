@@ -15,5 +15,5 @@ def extract_text(file_path)->str:
 
 
 if __name__ == "__main__":
-  SAMPLE_TEXT_FOR_BENCH = extract_text(file_path='data/etl_sample.pdf')
+  SAMPLE_TEXT_FOR_BENCH = extract_text(file_path='etl_sample.pdf')
   print(SAMPLE_TEXT_FOR_BENCH)

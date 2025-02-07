@@ -143,7 +143,7 @@ Don't be left unprotected. Order your don SSSS3000 today!"""
 
 # TODO 1: the text extracted from the PDF needs to be added inside this constant
 from extract_text_from_pdf import extract_text
-SAMPLE_TEXT_FOR_BENCH = extract_text(file_path='data/etl_sample.pdf')
+SAMPLE_TEXT_FOR_BENCH = extract_text(file_path='etl_sample.pdf')
 
 
 

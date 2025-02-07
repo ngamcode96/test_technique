@@ -40,4 +40,3 @@ Run the tests using pytest:
 python -m pytest _etl_a9number_v3.py
 
 ## Expected result: Success 2/2
-
