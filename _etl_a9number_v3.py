@@ -26,9 +26,8 @@ def count_occurrences_in_text(word, text):
 
     count = 0
     for w_idx, w in enumerate(text_matches):
-        # remove all punctuations after a siggle word
+
         if (len(word_matches) == 1 and word_matches[0] == re.sub(r"(?<=\w)[!?.,;:_]+", '', w)) or " ".join(word_matches) == " ".join(text_matches[w_idx:w_idx+len(word_matches)]):
-           
             count += 1  
 
     return count
